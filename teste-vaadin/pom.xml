@@ -38,6 +38,7 @@
       <artifactId>vaadin-spring-boot-starter</artifactId>
       <version>${vaadin.version}</version>
     </dependency>
+  
   </dependencies>
 
   <build>

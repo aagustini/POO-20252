@@ -66,3 +66,15 @@ buildNumber.properties
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/java,maven,visualstudiocode
+
+# Arquivos gerados automaticamente pelo Vaadin
+/frontend/generated/*
+/node_modules/*
+/node_modules/.bin/*
+/package-lock.json
+/pnpm-lock.yaml
+/yarn.lock
+/.pnpm-debug.log
+
+# Arquivos temporários de build do Vaadin
+/.vaadin/
